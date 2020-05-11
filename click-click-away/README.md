@@ -9,7 +9,7 @@ This is an EXTREME memorization and click game. The object of the game is to cli
 To install the application follow the instructions below:
 
 * cd document/
-* git clone git@github.com:Linag94/clicky-gmae.git/
+* git clone git@github.com:Linag94/clicky-game.git/
 * cd clicky-game/
 * npm install to load react## Demo
 
