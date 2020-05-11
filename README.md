@@ -1,10 +1,8 @@
-# Clicky Game
+# Fruit Ninja Reat Memory Game
 
-Memory game built with react with a fun play on fruit ninja a popular game in 2012.
+## Background Information
 
-## Demo
-	
-*Clicky Game* is deployed to Heroku. Please check it out [here](https://pure-cliffs-84048.herokuapp.com/).
+This is an EXTREME memorization and click game. The object of the game is to click on only one painting once. If you repeat guesses, you lose and the score is reset to 0. This game if a fun play on the popular game fruit ninja.
 
 ## Installation
 
@@ -13,6 +11,13 @@ To install the application follow the instructions below:
 * cd document/
 * git clone git@github.com:Linag94/clicky-gmae.git/
 * cd clicky-game/
-* npm install to load react
-	
-## ScreenShot
+* npm install to load react## Demo
+
+
+
+## Demo
+*Clicky Game* is deployed to Heroku. Please check it out [here](https://pure-cliffs-84048.herokuapp.com/).
+
+## Screenshot
+
+![](click-click-away\images\Screenshot%20(1).png)
