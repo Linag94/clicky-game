@@ -10,9 +10,9 @@ Memory game built with react with a fun play on fruit ninja a popular game in 20
 
 To install the application follow the instructions below:
 
-  -cd document/
-	-git clone git@github.com:Linag94/clicky-gmae.git/
-	-cd clicky-game/
-	-npm install to load react
+* cd document/
+* git clone git@github.com:Linag94/clicky-gmae.git/
+* cd clicky-game/
+* npm install to load react
 	
 ## ScreenShot
