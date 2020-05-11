@@ -6,3 +6,7 @@ This is an EXTREME memorization and click game. The object of the game is to cli
 
 ## Getting Started
 Try the app Here [https://pure-cliffs-84048.herokuapp.com/](https://pure-cliffs-84048.herokuapp.com//) (`Heroku`)
+
+## Screenshot
+
+![](click-click-away\images\Screenshot%20(1).png)
