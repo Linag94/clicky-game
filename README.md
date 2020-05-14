@@ -20,4 +20,4 @@ To install the application follow the instructions below:
 
 ## Screenshot
 
-![](images\Screenshot%20(1).png)
+![](https://i.ibb.co/k5srSVR/Screenshot-1.png)
