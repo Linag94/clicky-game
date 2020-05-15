@@ -1,4 +1,4 @@
-# Fruit Ninja Reat Memory Game
+# Clicky Game
 
 ## Background Information
 
